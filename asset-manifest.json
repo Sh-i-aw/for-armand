@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/for-armand/static/css/main.6025b00e.css",
+    "main.js": "/for-armand/static/js/main.8ad18697.js",
+    "static/js/453.fb58d346.chunk.js": "/for-armand/static/js/453.fb58d346.chunk.js",
+    "static/media/chien.png": "/for-armand/static/media/chien.d0c8c22bb6f7372c4b3f.png",
+    "static/media/logo.svg": "/for-armand/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/for-armand/index.html",
+    "main.6025b00e.css.map": "/for-armand/static/css/main.6025b00e.css.map",
+    "main.8ad18697.js.map": "/for-armand/static/js/main.8ad18697.js.map",
+    "453.fb58d346.chunk.js.map": "/for-armand/static/js/453.fb58d346.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6025b00e.css",
+    "static/js/main.8ad18697.js"
+  ]
+}
